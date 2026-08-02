@@ -42,7 +42,7 @@ This project is a graphical calculator application that provides basic arithmeti
 
 ## Screenshots
 
-(Add screenshots of the calculator interface here)
+![Calculator Screenshot](calculator-screenshot.png)
 
 
 ## Future Improvements
